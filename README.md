@@ -13,7 +13,7 @@ Google Drive link to project dataset and result files: https://drive.google.com/
 2. BiLSTM
 3. BERT (bert-base-uncased)
 
-**Results**
+**Results** 
 
 Best Model: BERT
 
